@@ -1,0 +1,9 @@
+{
+  "name": "Express4-FileUpload",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.6.1",
+    "formidable": "^1.0.15",
+    "path": "^0.4.9"
+  }
+}
